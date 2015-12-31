@@ -1,0 +1,13 @@
+body {
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#start {
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    background:url(/images/spark.jpg);
+}
